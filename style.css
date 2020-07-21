@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    background-color: #f9fafc;
+}
+
+.list {
+    position: relative;
+    right: 40px;
+}
+
+ul {
+    color: #69696a;
+    list-style-type: none;
+}
+
+button {
+    background-color: #000;
+    color: #FFF;
+    width: 100%;
+    padding: 10px;
+    border-radius: 25px;
+    align-items: center;
+    border: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+  }
+
+main {
+    border-left: 10px;
+}
